@@ -11,8 +11,11 @@ The project includes:
 - SHAP explainability visualizations to interpret how features impact individual salary predictions.
 - Exploratory Data Analysis (EDA) with visual graphs to understand the dataset distribution and trends.
 
+
 ## Demo
-![App Screenshot](assets/Employee Salary Predictor.jpg)
+
+![App Screenshot](assets/Employee_Salary_Predictor.jpg)
+
 
 ## Features
 - User-friendly input panel to select employee features.
