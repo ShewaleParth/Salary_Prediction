@@ -12,7 +12,7 @@ The project includes:
 - Exploratory Data Analysis (EDA) with visual graphs to understand the dataset distribution and trends.
 
 ## Demo
-![App Screenshot](assets/Employee_Salary_Predictor.jpg)
+![App Screenshot](assets/Employee Salary Predictor.jpg)
 
 ## Features
 - User-friendly input panel to select employee features.
